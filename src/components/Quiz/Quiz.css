@@ -1,0 +1,25 @@
+.questions{
+    font-size: 1.5rem;
+}
+#startAddPlayer .card{
+    width: 18rem;
+}
+.textWrong{
+    color: red;
+    margin-bottom: 1.5rem;
+    margin-top: 130px;
+}
+.textCorrect{
+    color: blue;
+    margin-top: 150px;
+}
+.options{
+    height: 440px;
+}
+.playerBtnQuiz{
+    line-height: 90px !important;
+    font-size: 45px !important;
+}
+
+
+  
